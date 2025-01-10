@@ -1,0 +1,451 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PrograMarket
+</name>
+</assembly>
+<members>
+<member name="T:PrograMarket.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.acercade">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.anadir">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.azulRecuadro">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.borrar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.borrar1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.buscar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.buscar1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.cancelar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.carrito">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.cerrar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.clave">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.cliente">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.compra">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.dni">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.editar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.InicioSesion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.LIMPIAR_COLOR">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.LogoPrograma">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.menusliding">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.MiniMarketLogin">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.producto">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.proveedor">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.recuperar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.REGISTRAR">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.registrocompra">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.registroventa">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.reportecompra">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.reportes">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.reporteventa">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.usuario">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.venta">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrograMarket.My.Resources.Resources.ver">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.CategoriaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.ClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.CompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.DetalleCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.DetalleVentaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.FuncionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.PermisoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.ProductoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.ProveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.UsuarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.VentaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.CategoriaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.ClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.CompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.DetalleCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.DetalleVentaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.FuncionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.PermisoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.ProductoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.ProveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.UsuarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.VentaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.CategoriaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.ClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.CompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.DetalleCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.DetalleVentaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.FuncionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.PermisoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.ProductoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.ProveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.UsuarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSet.VentaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSetTableAdapters.CategoriaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSetTableAdapters.ClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSetTableAdapters.CompraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSetTableAdapters.DetalleCompraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSetTableAdapters.DetalleVentaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSetTableAdapters.FuncionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSetTableAdapters.PermisoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSetTableAdapters.ProductoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSetTableAdapters.ProveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSetTableAdapters.UsuarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSetTableAdapters.VentaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PrograMarket.MINIMARKETDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PrograMarket.MINIMARKETDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PrograMarket.MINIMARKETDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PrograMarket.MINIMARKETDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PrograMarket.MINIMARKETDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PrograMarket.MINIMARKETDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PrograMarket.MINIMARKETDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PrograMarket.MINIMARKETDataSetTableAdapters.TableAdapterManager.UpdateAll(PrograMarket.MINIMARKETDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PrograMarket.MINIMARKETDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
